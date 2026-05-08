@@ -1,0 +1,30 @@
+﻿@model IEnumerable<CoffeShop.Models.Product>
+
+@{
+    ViewData["Title"] = "Coffee Shop Menu";
+}
+
+<h1>☕ Coffee Shop Menu</h1>
+
+<div class="menu">
+    @foreach (var item in Model)
+    {
+        <div class="card">
+            <img src="@item.ImageUrl" alt="@item.Name" />
+            <div class="card-body">
+                <h3>@item.Name</h3>
+                <div class="price">
+                    @item.Price.ToString("N0") VNĐ
+                </div>
+                <button class="btn">Order Now</button>
+            </div>
+        </div>
+    }
+</div>
+
+<style>
+    /* Dán phần CSS của bạn vào đây */
+    .menu { display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; }
+    .card { width: 250px; background: white; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); }
+    /* ... các phần style khác ... */
+</style>
