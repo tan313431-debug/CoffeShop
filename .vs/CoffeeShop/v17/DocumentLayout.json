@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CNTT\\LapTrinhWeb\\CoffeeShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01D6C3B2-B46C-479C-810D-3DE97057914A}|CoffeeShop\\CoffeeShop.csproj|d:\\cntt\\laptrinhweb\\coffeeshop\\coffeeshop\\data\\coffeeshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D6C3B2-B46C-479C-810D-3DE97057914A}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\data\\coffeeshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D6C3B2-B46C-479C-810D-3DE97057914A}|CoffeeShop\\CoffeeShop.csproj|d:\\cntt\\laptrinhweb\\coffeeshop\\coffeeshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D6C3B2-B46C-479C-810D-3DE97057914A}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D6C3B2-B46C-479C-810D-3DE97057914A}|CoffeeShop\\CoffeeShop.csproj|d:\\cntt\\laptrinhweb\\coffeeshop\\coffeeshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{01D6C3B2-B46C-479C-810D-3DE97057914A}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D6C3B2-B46C-479C-810D-3DE97057914A}|CoffeeShop\\CoffeeShop.csproj|d:\\cntt\\laptrinhweb\\coffeeshop\\coffeeshop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D6C3B2-B46C-479C-810D-3DE97057914A}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D6C3B2-B46C-479C-810D-3DE97057914A}|CoffeeShop\\CoffeeShop.csproj|d:\\cntt\\laptrinhweb\\coffeeshop\\coffeeshop\\models\\services\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D6C3B2-B46C-479C-810D-3DE97057914A}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\models\\services\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D6C3B2-B46C-479C-810D-3DE97057914A}|CoffeeShop\\CoffeeShop.csproj|d:\\cntt\\laptrinhweb\\coffeeshop\\coffeeshop\\views\\products\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01D6C3B2-B46C-479C-810D-3DE97057914A}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\views\\products\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D6C3B2-B46C-479C-810D-3DE97057914A}|CoffeeShop\\CoffeeShop.csproj|d:\\cntt\\laptrinhweb\\coffeeshop\\coffeeshop\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D6C3B2-B46C-479C-810D-3DE97057914A}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D6C3B2-B46C-479C-810D-3DE97057914A}|CoffeeShop\\CoffeeShop.csproj|d:\\cntt\\laptrinhweb\\coffeeshop\\coffeeshop\\models\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D6C3B2-B46C-479C-810D-3DE97057914A}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\models\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D6C3B2-B46C-479C-810D-3DE97057914A}|CoffeeShop\\CoffeeShop.csproj|d:\\cntt\\laptrinhweb\\coffeeshop\\coffeeshop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D6C3B2-B46C-479C-810D-3DE97057914A}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D6C3B2-B46C-479C-810D-3DE97057914A}|CoffeeShop\\CoffeeShop.csproj|d:\\cntt\\laptrinhweb\\coffeeshop\\coffeeshop\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{01D6C3B2-B46C-479C-810D-3DE97057914A}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CoffeeshopDbContext.cs",
+              "DocumentMoniker": "D:\\CNTT\\LapTrinhWeb\\CoffeeShop\\CoffeeShop\\Data\\CoffeeshopDbContext.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\Data\\CoffeeshopDbContext.cs",
+              "ToolTip": "D:\\CNTT\\LapTrinhWeb\\CoffeeShop\\CoffeeShop\\Data\\CoffeeshopDbContext.cs",
+              "RelativeToolTip": "CoffeeShop\\Data\\CoffeeshopDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T07:12:23.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Shop.cshtml",
+              "DocumentMoniker": "D:\\CNTT\\LapTrinhWeb\\CoffeeShop\\CoffeeShop\\Views\\Products\\Shop.cshtml",
+              "RelativeDocumentMoniker": "CoffeeShop\\Views\\Products\\Shop.cshtml",
+              "ToolTip": "D:\\CNTT\\LapTrinhWeb\\CoffeeShop\\CoffeeShop\\Views\\Products\\Shop.cshtml",
+              "RelativeToolTip": "CoffeeShop\\Views\\Products\\Shop.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-25T07:05:41.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\CNTT\\LapTrinhWeb\\CoffeeShop\\CoffeeShop\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\CNTT\\LapTrinhWeb\\CoffeeShop\\CoffeeShop\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "CoffeeShop\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T06:55:34.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\CNTT\\LapTrinhWeb\\CoffeeShop\\CoffeeShop\\Models\\Services\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\Models\\Services\\ProductRepository.cs",
+              "ToolTip": "D:\\CNTT\\LapTrinhWeb\\CoffeeShop\\CoffeeShop\\Models\\Services\\ProductRepository.cs",
+              "RelativeToolTip": "CoffeeShop\\Models\\Services\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T06:49:04.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\CNTT\\LapTrinhWeb\\CoffeeShop\\CoffeeShop\\Models\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\Models\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "D:\\CNTT\\LapTrinhWeb\\CoffeeShop\\CoffeeShop\\Models\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "CoffeeShop\\Models\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T06:46:52.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CNTT\\LapTrinhWeb\\CoffeeShop\\CoffeeShop\\Program.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\Program.cs",
+              "ToolTip": "D:\\CNTT\\LapTrinhWeb\\CoffeeShop\\CoffeeShop\\Program.cs",
+              "RelativeToolTip": "CoffeeShop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T06:40:34.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CNTT\\LapTrinhWeb\\CoffeeShop\\CoffeeShop\\appsettings.json",
+              "RelativeDocumentMoniker": "CoffeeShop\\appsettings.json",
+              "ToolTip": "D:\\CNTT\\LapTrinhWeb\\CoffeeShop\\CoffeeShop\\appsettings.json",
+              "RelativeToolTip": "CoffeeShop\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-25T06:40:28.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\CNTT\\LapTrinhWeb\\CoffeeShop\\CoffeeShop\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\CNTT\\LapTrinhWeb\\CoffeeShop\\CoffeeShop\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "CoffeeShop\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T06:47:00.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\CNTT\\LapTrinhWeb\\CoffeeShop\\CoffeeShop\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\Models\\Product.cs",
+              "ToolTip": "D:\\CNTT\\LapTrinhWeb\\CoffeeShop\\CoffeeShop\\Models\\Product.cs",
+              "RelativeToolTip": "CoffeeShop\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T06:41:13.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\CNTT\\LapTrinhWeb\\CoffeeShop\\CoffeeShop\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CoffeeShop\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\CNTT\\LapTrinhWeb\\CoffeeShop\\CoffeeShop\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CoffeeShop\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-25T06:40:22.262Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
