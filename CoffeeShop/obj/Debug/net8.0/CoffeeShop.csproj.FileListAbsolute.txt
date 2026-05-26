@@ -144,3 +144,4 @@ D:\CNTT\LapTrinhWeb\CoffeeShop\CoffeeShop\obj\Debug\net8.0\refint\CoffeeShop.dll
 D:\CNTT\LapTrinhWeb\CoffeeShop\CoffeeShop\obj\Debug\net8.0\CoffeeShop.pdb
 D:\CNTT\LapTrinhWeb\CoffeeShop\CoffeeShop\obj\Debug\net8.0\CoffeeShop.genruntimeconfig.cache
 D:\CNTT\LapTrinhWeb\CoffeeShop\CoffeeShop\obj\Debug\net8.0\ref\CoffeeShop.dll
+D:\CNTT\LapTrinhWeb\CoffeeShop\CoffeeShop\obj\Debug\net8.0\CoffeeShop.sourcelink.json
