@@ -15,6 +15,7 @@ builder.Services.AddDbContext<CoffeeshopDbContext>(option =>
     option.UseSqlServer(builder.Configuration.GetConnectionString("CoffeeShopDbContextConnection")));
 
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
+builder.Services.AddScoped<IOrderRepository, OrderRepository>();
 
 builder.Services.AddHttpContextAccessor();
 builder.Services.AddSession();
