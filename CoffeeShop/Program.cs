@@ -3,16 +3,21 @@ using coffeeshop.Models.interfaces;
 using coffeeshop.Models.Services;
 using CoffeeShop.Models.Interfaces;
 using CoffeeShop.Models.Services;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
 
 var builder = WebApplication.CreateBuilder(args);
-
-
 builder.Services.AddControllersWithViews();
 
 builder.Services.AddDbContext<CoffeeshopDbContext>(option =>
     option.UseSqlServer(builder.Configuration.GetConnectionString("CoffeeShopDbContextConnection")));
+
+builder.Services.AddDefaultIdentity<IdentityUser>(options =>
+    options.SignIn.RequireConfirmedAccount = false)
+    .AddEntityFrameworkStores<CoffeeshopDbContext>();
+builder.Services.AddRazorPages();
+
 
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
 builder.Services.AddScoped<IOrderRepository, OrderRepository>();
@@ -36,8 +41,9 @@ app.UseStaticFiles();
 
 app.UseRouting();
 app.UseSession();
+app.UseAuthentication();
 app.UseAuthorization();
-
+app.MapRazorPages();
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");

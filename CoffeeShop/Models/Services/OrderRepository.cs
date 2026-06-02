@@ -1,5 +1,6 @@
 ﻿using coffeeshop.Data;
 using CoffeeShop.Models.Interfaces;
+using Microsoft.EntityFrameworkCore;
 
 namespace CoffeeShop.Models.Services
 {
@@ -35,6 +36,15 @@ namespace CoffeeShop.Models.Services
 
             dbContext.Orders.Add(order);
             dbContext.SaveChanges();
+        }
+        public IEnumerable<Order> GetOrdersByEmail(string? email)
+        {
+            return dbContext.Orders
+                .Include(o => o.OrderDetails)
+                .ThenInclude(od => od.Product)
+                .Where(o => o.Email == email)
+                .OrderByDescending(o => o.OrderPlaced)
+                .ToList();
         }
     }
 }

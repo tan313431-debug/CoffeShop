@@ -2,6 +2,8 @@
 {
     public interface IOrderRepository
     {
+        
         void PlaceOrder(Order order);
+        IEnumerable<Order> GetOrdersByEmail(string? email);
     }
 }

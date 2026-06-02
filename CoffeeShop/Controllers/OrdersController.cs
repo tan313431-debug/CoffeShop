@@ -1,10 +1,11 @@
 ﻿using CoffeeShop.Models.Interfaces;
 using CoffeeShop.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Authorization;
 
 namespace CoffeeShop.Controllers
 {
-
+    [Authorize]
     public class OrdersController : Controller
     {
         private IOrderRepository orderRepository;
